@@ -1,15 +1,83 @@
-# 💫 About Me:
-Improving my life with scripts from time to time 👌
+<div id="cowsay">
+
+```text
+ ________________________________________
+/ "Code never lies, comments sometimes  \
+\ do." - Ron Jeffries                   /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+evathesalmon@github:~$ cat whoami
+```
+
+</div>
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EvaTheSalmon&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EvaTheSalmon&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EvaTheSalmon&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ABOUT:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EvaTheSalmon&theme=default&no-frame=true&no-bg=false&margin-w=4)
+My name is Oleg, I am tech enthusiast and a developer.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Stack: 
+
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) 
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![.NET](https://img.shields.io/badge/.NET_Framework-512BA1?logo=dotnet&logoColor=fff)](#)
+
+### IDEs: 
+
+[![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
+    
+### Tooling: 
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+
+## SELFHOSTING:
+
+### OSes: 
+
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
+### Stored Linux Distros:
+
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![UnRAID](https://img.shields.io/badge/UnRAID-F15A2C?logo=unraid&logoColor=fff)](#)
+[![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?logo=truenas&logoColor=fff)](#)
+[![pfSense](https://img.shields.io/badge/pfSense-212121?logo=pfsense&logoColor=fff)](#)
+[![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?logo=opnsense&logoColor=fff)](#)
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=fff)](#)
+
+### Infra:
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![MikroTik](https://img.shields.io/badge/MikroTik-293239?logo=mikrotik&logoColor=fff)](#)
+[![Synology](https://img.shields.io/badge/Synology-B5B5B6?logo=synology&logoColor=000)](#)
+
+### Favorite Containers:
+
+[![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?logo=pihole&logoColor=fff)](#)
+[![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?logo=jellyfin&logoColor=fff)](#)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff)](#)
+[![Xray](https://img.shields.io/badge/Xray-0078FF?logo=x&logoColor=fff)](#)
+[![qBittorrent](https://img.shields.io/badge/qBittorrent-2F67BA?logo=qbittorrent&logoColor=fff)](#)
+[![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=fff)](#)
+
+
+<div id="contribution activity">
+
+![Git Stats](https://github-readme-stats.vercel.app/api?username=EvaTheSalmon&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EvaTheSalmon&theme=tokyonight&hide_border=true&bg_color=0d1117&color=38BDAE&line=608DD8&point=608DD8&area=true&custom_title=Contribution%20Graph)
+
+</div>
+
