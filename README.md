@@ -75,9 +75,8 @@ My name is Oleg, I am tech enthusiast and a developer.
 
 <div id="contribution activity">
 
-![Git Stats](https://github-readme-stats.vercel.app/api?username=EvaTheSalmon&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EvaTheSalmon&theme=tokyonight&hide_border=true&bg_color=0d1117&color=38BDAE&line=608DD8&point=608DD8&area=true&custom_title=Contribution%20Graph)
 
 </div>
+
 
