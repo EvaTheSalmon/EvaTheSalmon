@@ -72,11 +72,3 @@ My name is Oleg, I am tech enthusiast and a developer.
 [![qBittorrent](https://img.shields.io/badge/qBittorrent-2F67BA?logo=qbittorrent&logoColor=fff)](#)
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=fff)](#)
 
-
-<div id="contribution activity">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrcsin&theme=tokyonight&hide_border=true&bg_color=0d1117&color=38BDAE&line=608DD8&point=608DD8&area=true&custom_title=Contribution%20Graph)
-
-</div>
-
-
